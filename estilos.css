@@ -23,7 +23,6 @@ img {
   text-decoration: none;
 }
 
-/* MENU */
 .menu-body {
   min-height: 100vh;
   display: flex;
@@ -64,7 +63,6 @@ img {
   font-weight: 700;
 }
 
-/* EJERCICIO 1 */
 .exercise1-body {
   background: #ffffff;
   padding: 16px;
@@ -165,7 +163,6 @@ img {
   cursor: pointer;
 }
 
-/* EJERCICIO 2 */
 .exercise2-body {
   background: #ffffff;
   padding: 8px;
@@ -266,7 +263,6 @@ img {
   letter-spacing: -2px;
 }
 
-/* EJERCICIO 3 */
 .exercise3-body {
   background: #efefef;
   padding: 10px;
@@ -388,7 +384,6 @@ img {
   background: #9fd9c8;
 }
 
-/* RESPONSIVE */
 @media (max-width: 980px) {
   .exercise1-grid {
     grid-template-columns: repeat(3, 1fr);
